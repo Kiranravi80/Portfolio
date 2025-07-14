@@ -19,7 +19,7 @@ A modern, visually engaging personal portfolio website built with React, showcas
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Screenshot – Light](images/Screenshot (11).png) | ![Screenshot – Dark](/path/to/dark-mode.png) |
+| ![Screenshot – Light](images/Screenshot (11).png) | ![Screenshot – Dark](images/Screenshot (12).png) |
 
 ## 🔧 Installation & Local Setup
 
