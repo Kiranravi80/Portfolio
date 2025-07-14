@@ -15,11 +15,11 @@ A modern, visually engaging personal portfolio website built with React, showcas
 - Contact form integrated with Email.js for direct messages :contentReference[oaicite:3]{index=3}
 
 ## 📸 Screenshots
-*(Replace these placeholders with actual images — embed them or link to hosted images.)*
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Screenshot – Light](images/Screenshot (11).png) | ![Screenshot – Dark](images/Screenshot (12).png) |
+
+
+images/Screenshot (11).png
+images/Screenshot (12).png
 
 ## 🔧 Installation & Local Setup
 
