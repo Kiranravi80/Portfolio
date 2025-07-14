@@ -16,10 +16,12 @@ A modern, visually engaging personal portfolio website built with React, showcas
 
 ## 📸 Screenshots
 
+<img width="1901" height="830" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/7804f6fb-9fbd-4517-a002-0556f67eac6d" />
 
+<img width="1895" height="859" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4b630f48-06d3-41c6-b1ac-1854d9b284f8" />
 
-images/Screenshot (11).png
-images/Screenshot (12).png
+<img width="1902" height="832" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/733e12fa-a75d-417b-ae27-edc9fb45e5e1" />
+
 
 ## 🔧 Installation & Local Setup
 
@@ -34,6 +36,8 @@ npm install
 # Launch development server
 npm start
 
+
+## DEMO---
 🌐 Live Demo
 LINK :-  https://beamish-meringue-e5a045.netlify.app/
 
